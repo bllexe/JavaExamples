@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b63097-05e7-4bce-b260-ff6243f0b511" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/readme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/missingNumber/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/reverseNumber/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/reverseNumber/ReverseNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/singleNumber/SingleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/singleNumber/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaExamples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +46,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bilal/Desktop/JavaSpringProjects/KurumsalWeb&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/bilal/Desktop/JavaSpringProjects/KurumsalWeb&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.18087557&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SpaceRemove">
-    <configuration name="OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.oddNumber.OddNumber" />
+  <component name="RunManager" selected="Application.CountChar">
+    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.countValueFromString.CountChar" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.oddNumber.*" />
+          <option name="PATTERN" value="org.example.countValueFromString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.primeNumber.PrimeNumber" />
+    <configuration name="DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.date.DateFormat" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.primeNumber.*" />
+          <option name="PATTERN" value="org.example.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.fibonacciNumber.PrintFibonacci" />
+    <configuration name="FingStringInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.file.FingStringInFile" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.fibonacciNumber.*" />
+          <option name="PATTERN" value="org.example.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpaceRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spacesControl.SpaceRemove" />
+    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.shuffleArray.ShuffleArray" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.spacesControl.*" />
+          <option name="PATTERN" value="org.example.shuffleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.vowel.VowelCheck" />
+    <configuration name="SortHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sortingMap.SortHashMap" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.vowel.*" />
+          <option name="PATTERN" value="org.example.sortingMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpaceRemove" />
-        <item itemvalue="Application.OddNumber" />
-        <item itemvalue="Application.PrintFibonacci" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.VowelCheck" />
+        <item itemvalue="Application.CountChar" />
+        <item itemvalue="Application.SortHashMap" />
+        <item itemvalue="Application.DateFormat" />
+        <item itemvalue="Application.FingStringInFile" />
+        <item itemvalue="Application.ShuffleArray" />
       </list>
     </recent_temporary>
   </component>
