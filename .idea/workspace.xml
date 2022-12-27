@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b63097-05e7-4bce-b260-ff6243f0b511" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JavaExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaExamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/anagramCheck/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/arrayValues/SameElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/countValueFromString/CountChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/date/DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/duplicate/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/encode_decode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/factorial/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/fibonacciNumber/PrintFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/file/FingStringInFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/missingNumber/MissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/oddNumber/OddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/palindrome/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/palindrome/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/primeNumber/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/reverseNumber/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/reverseNumber/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/reverseString/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/secondLargestValue/LargestValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/shuffleArray/ShuffleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singleNumber/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/sortingMap/SortHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/spacesControl/SpaceRemove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/substring/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/sumofArray/SumArrayValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/vowel/VowelCheck.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +77,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountChar">
-    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.countValueFromString.CountChar" />
+  <component name="RunManager" selected="Application.WinGame">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.countingArrayValue.Main" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.countValueFromString.*" />
+          <option name="PATTERN" value="org.example.countingArrayValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,34 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.date.DateFormat" />
-      <module name="JavaExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.date.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FingStringInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.file.FingStringInFile" />
-      <module name="JavaExamples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.file.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.shuffleArray.ShuffleArray" />
+    <configuration name="ShuffleStringChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.shuffleArray.ShuffleStringChar" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.sortingMap.SortHashMap" />
+    <configuration name="WinGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cardGame.WinGame" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.sortingMap.*" />
+          <option name="PATTERN" value="org.example.cardGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.arrayValues.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrayValues.Main" />
+      <module name="JavaExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arrayValues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.substring.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.substring.Main" />
+      <module name="JavaExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountChar" />
-        <item itemvalue="Application.SortHashMap" />
-        <item itemvalue="Application.DateFormat" />
-        <item itemvalue="Application.FingStringInFile" />
-        <item itemvalue="Application.ShuffleArray" />
+        <item itemvalue="Application.WinGame" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.example.arrayValues.Main" />
+        <item itemvalue="Application.ShuffleStringChar" />
+        <item itemvalue="Application.org.example.substring.Main" />
       </list>
     </recent_temporary>
   </component>
