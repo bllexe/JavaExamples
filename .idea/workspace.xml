@@ -5,40 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b63097-05e7-4bce-b260-ff6243f0b511" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DateExam/HowManyDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/countWords/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/factorial/CheckingFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/nearestChapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/perfectNumber/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/primeNumber/HowManyPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamApiExam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamApiExam/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/phoneFormat/FormatPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/rps/RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/anagramCheck/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/anagramCheck/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrayValues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/arrayValues/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrayValues/SameElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/arrayValues/SameElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/cardGame/WinGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/cardGame/WinGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/countValueFromString/CountChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/countValueFromString/CountChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/countingArrayValue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamApiExam/countingArrayValue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/date/DateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DateExam/DateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/duplicate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/duplicate/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/encode_decode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/encode_decode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/factorial/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fibonacciNumber/PrintFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/fibonacciNumber/PrintFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/file/FindStringInFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FileExam/FindStringInFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/file/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FileExam/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/missingNumber/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/missingNumber/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oddNumber/OddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/oddNumber/OddNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/palindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/palindrome/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/palindrome/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/palindrome/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/primeNumber/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/primeNumber/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/reverseNumber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/reverseNumber/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/reverseNumber/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/reverseNumber/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/reverseString/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/reverseString/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/secondLargestValue/LargestValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/secondLargestValue/LargestValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/shuffleArray/ShuffleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/shuffleArray/ShuffleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/shuffleArray/ShuffleStringChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/shuffleArray/ShuffleStringChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/singleNumber/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleNumber/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/singleNumber/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sortingMap/SortHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Collections/sortingMap/SortHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/spacesControl/SpaceRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/spacesControl/SpaceRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/streamApi/searchValueFromArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StreamApiExam/searchValueFromArray/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/substring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/substring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/substring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/substring/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sumofArray/SumArrayValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/sumofArray/SumArrayValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/vowel/VowelCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/vowel/VowelCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +61,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RockPaperScissors">
-    <configuration name="HowManyDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DateExam.HowManyDay" />
+  <component name="RunManager" selected="Application.DescendingOrder">
+    <configuration name="DecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.getDecimalPlace.DecimalPlaces" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.DateExam.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.getDecimalPlace.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.primeNumber.HowManyPrime" />
+    <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Collections.descending.DescendingOrder" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.NumbersExam.primeNumber.*" />
+          <option name="PATTERN" value="org.example.Collections.descending.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.rps.RockPaperScissors" />
+    <configuration name="Diffrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.minMaxValue.Diffrence" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StringExam.rps.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.minMaxValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WinGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.cardGame.WinGame" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Collections.sortingMap.uniquSort.Sort" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.NumbersExam.cardGame.*" />
+          <option name="PATTERN" value="org.example.Collections.sortingMap.uniquSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,10 +129,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RockPaperScissors" />
-        <item itemvalue="Application.WinGame" />
-        <item itemvalue="Application.HowManyDay" />
-        <item itemvalue="Application.HowManyPrime" />
+        <item itemvalue="Application.DescendingOrder" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.DecimalPlaces" />
+        <item itemvalue="Application.Diffrence" />
         <item itemvalue="Application.org.example.Main" />
       </list>
     </recent_temporary>
