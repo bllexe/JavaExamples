@@ -1,4 +1,4 @@
-package org.example.StringExam.rps;
+package org.example.gameEx.rps;
 
 import java.util.Scanner;
 

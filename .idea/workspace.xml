@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96b63097-05e7-4bce-b260-ff6243f0b511" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/digitOfNumber/NumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/digitOfNumber/NumOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringExam/rps/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/gameEx/rps/RockPaperScissors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumOfDigit">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RunManager" selected="Application.org.example.NumbersExam.indicesOfThetwoNumbers.Main">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.advanced.equalIndex.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.advanced.equalIndex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.digitOfNumber.NumOfDigit" />
+    <configuration name="org.example.NumbersExam.indicesOfThetwoNumbers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.indicesOfThetwoNumbers.Main" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.NumbersExam.digitOfNumber.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.indicesOfThetwoNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameStringValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.stringValue.SameStringValue" />
+    <configuration name="org.example.dataStructere.searchingAlgorithms.binarySearch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.searchingAlgorithms.binarySearch.Main" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StringExam.stringValue.*" />
+          <option name="PATTERN" value="org.example.dataStructere.searchingAlgorithms.binarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.shuffleArray.ShuffleIndex" />
+    <configuration name="org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StringExam.shuffleArray.*" />
+          <option name="PATTERN" value="org.example.dataStructere.sortingAlgorithms.bubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleStringChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.shuffleArray.ShuffleStringChar" />
+    <configuration name="org.example.dataStructere.sortingAlgorithms.selectionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.sortingAlgorithms.selectionSort.Main" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StringExam.shuffleArray.*" />
+          <option name="PATTERN" value="org.example.dataStructere.sortingAlgorithms.selectionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumOfDigit" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShuffleIndex" />
-        <item itemvalue="Application.ShuffleStringChar" />
-        <item itemvalue="Application.SameStringValue" />
+        <item itemvalue="Application.org.example.NumbersExam.indicesOfThetwoNumbers.Main" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" />
+        <item itemvalue="Application.org.example.dataStructere.sortingAlgorithms.selectionSort.Main" />
+        <item itemvalue="Application.org.example.dataStructere.searchingAlgorithms.binarySearch.Main" />
       </list>
     </recent_temporary>
   </component>
