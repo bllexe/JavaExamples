@@ -1,0 +1,7 @@
+128.125.65.42 google.com
+165.148.62.21 starbucks.com
+158.114.65.48 facebook.com
+128.112.115.32 github.com
+145.143.123.85 turktelekom.com
+128.142.68.75  sonradanEklendi.com
+45.55.68.745   BuDaSonradanEklendi.com

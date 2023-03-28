@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b63097-05e7-4bce-b260-ff6243f0b511" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileExam/readWriteFile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileExam/readWriteFile/MyHost.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileExam/readWriteFile/hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/medianMergedArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/polindromeNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/countValueFromString/MaxCharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/countWordInString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/duplicateWordCount/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/mergeStringArray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/removeDuplicateWord/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringExam/rps/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/gameEx/rps/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumbersExam/singleNumber/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringExam/countValueFromString/AllCharCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringExam/countValueFromString/AllCharCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +61,27 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bilal/Desktop/JavaSpringProjects/KurumsalWeb&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bilal/Desktop/JavaSpringProjects/JavaExamples&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.18087557&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.NumbersExam.indicesOfThetwoNumbers.Main">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.advanced.equalIndex.Solution" />
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.polindromeNumber.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.advanced.equalIndex.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.polindromeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.NumbersExam.indicesOfThetwoNumbers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.indicesOfThetwoNumbers.Main" />
+    <configuration name="org.example.NumbersExam.medianMergedArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.medianMergedArray.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.NumbersExam.indicesOfThetwoNumbers.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.medianMergedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.dataStructere.searchingAlgorithms.binarySearch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.searchingAlgorithms.binarySearch.Main" />
+    <configuration name="org.example.NumbersExam.numberOfMostDigit.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.NumbersExam.numberOfMostDigit.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructere.searchingAlgorithms.binarySearch.*" />
+          <option name="PATTERN" value="org.example.NumbersExam.numberOfMostDigit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" />
+    <configuration name="org.example.StringExam.mergeStringArray.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.mergeStringArray.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructere.sortingAlgorithms.bubbleSort.*" />
+          <option name="PATTERN" value="org.example.StringExam.mergeStringArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.dataStructere.sortingAlgorithms.selectionSort.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dataStructere.sortingAlgorithms.selectionSort.Main" />
+    <configuration name="org.example.StringExam.removeDuplicateWord.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringExam.removeDuplicateWord.Solution" />
       <module name="JavaExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dataStructere.sortingAlgorithms.selectionSort.*" />
+          <option name="PATTERN" value="org.example.StringExam.removeDuplicateWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.NumbersExam.indicesOfThetwoNumbers.Main" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.org.example.dataStructere.sortingAlgorithms.bubbleSort.Main" />
-        <item itemvalue="Application.org.example.dataStructere.sortingAlgorithms.selectionSort.Main" />
-        <item itemvalue="Application.org.example.dataStructere.searchingAlgorithms.binarySearch.Main" />
+        <item itemvalue="Application.org.example.NumbersExam.medianMergedArray.Solution" />
+        <item itemvalue="Application.org.example.NumbersExam.numberOfMostDigit.Solution" />
+        <item itemvalue="Application.org.example.StringExam.removeDuplicateWord.Solution" />
+        <item itemvalue="Application.org.example.StringExam.mergeStringArray.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -136,8 +159,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668117296118</updated>
+      <workItem from="1678370266620" duration="4980000" />
+      <workItem from="1678380331419" duration="2609000" />
+      <workItem from="1678383011033" duration="148000" />
+      <workItem from="1678456496613" duration="7308000" />
+      <workItem from="1678469490503" duration="3896000" />
+      <workItem from="1678534597397" duration="969000" />
+      <workItem from="1678704045239" duration="304000" />
+      <workItem from="1678704362508" duration="434000" />
+      <workItem from="1678733995910" duration="3851000" />
+      <workItem from="1678782130783" duration="15899000" />
+      <workItem from="1678970679010" duration="46000" />
+      <workItem from="1679507330812" duration="1167000" />
+      <workItem from="1679574360310" duration="1499000" />
+      <workItem from="1679753430692" duration="11000" />
+      <workItem from="1679996044169" duration="4083000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

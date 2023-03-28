@@ -3,7 +3,7 @@ package org.example.StringExam.countValueFromString;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CountChar {
+public class AllCharCount {
 
     public static void main(String[] args) {
         String s1="AAaabbccCDdEEEe";
